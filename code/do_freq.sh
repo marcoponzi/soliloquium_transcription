@@ -6,4 +6,4 @@ for w in `cat /tmp/words`
 do
 echo -n $w' '
 grep -F ' '$w' ' /tmp/spaces| wc -l
-done | sort -rnk 2 > $1'.freq'
+done | sort -rnk 2 > 'freq_'$1
