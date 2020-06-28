@@ -785,11 +785,11 @@ ineffab_le 1
 ineam 1
 indomo 1
 indiuidue 1
-indingens 1
 ind|ine_t^ 1
 indigne 1
 indiget 1
 indigente_ 1
+indigens 1
 indicare_t^ 1
 inde|inent? 1
 indebito 1
@@ -1333,6 +1333,7 @@ ac 1
 abi 1
 abexti^o2ibus 1
 aa_bim9 1
+a*a 1
 a? 1
 |a) 1
 9|umat9 1
@@ -1368,4 +1369,3 @@ a? 1
 2~c 1
 |2) 1
 |; 1
-ala 0
