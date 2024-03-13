@@ -29,3 +29,13 @@ _  macron
 3 for final ‘m’ but also |3 for 'sed'
 4  arabic numeral (similar to l in this ms) 
 9 con- / -us
+
+These symbols appear in the transcription, but were removed from the clean version:
+
+. basically the only punctuation used in the ms
+, space missing in manuscript
+%  space added in manuscript (space in the clean version)
+=  hyphened word at line break  (rejoined in the clean version)
+: hyphen missing in manuscript (still split in the clean version)
+{ } notes
+< >  text deleted / corrected in ms
